@@ -1,0 +1,14 @@
+/Users/abdala/HATEOAS-POC/bin/Debug/netcoreapp2.2/HATEOAS-POC.deps.json
+/Users/abdala/HATEOAS-POC/bin/Debug/netcoreapp2.2/HATEOAS-POC.runtimeconfig.json
+/Users/abdala/HATEOAS-POC/bin/Debug/netcoreapp2.2/HATEOAS-POC.runtimeconfig.dev.json
+/Users/abdala/HATEOAS-POC/bin/Debug/netcoreapp2.2/HATEOAS-POC.dll
+/Users/abdala/HATEOAS-POC/bin/Debug/netcoreapp2.2/HATEOAS-POC.pdb
+/Users/abdala/HATEOAS-POC/obj/Debug/netcoreapp2.2/HATEOAS-POC.csprojAssemblyReference.cache
+/Users/abdala/HATEOAS-POC/obj/Debug/netcoreapp2.2/HATEOAS-POC.csproj.CoreCompileInputs.cache
+/Users/abdala/HATEOAS-POC/obj/Debug/netcoreapp2.2/HATEOAS-POC.RazorAssemblyInfo.cache
+/Users/abdala/HATEOAS-POC/obj/Debug/netcoreapp2.2/HATEOAS-POC.RazorAssemblyInfo.cs
+/Users/abdala/HATEOAS-POC/obj/Debug/netcoreapp2.2/HATEOAS-POC.AssemblyInfoInputs.cache
+/Users/abdala/HATEOAS-POC/obj/Debug/netcoreapp2.2/HATEOAS-POC.AssemblyInfo.cs
+/Users/abdala/HATEOAS-POC/obj/Debug/netcoreapp2.2/HATEOAS-POC.RazorTargetAssemblyInfo.cache
+/Users/abdala/HATEOAS-POC/obj/Debug/netcoreapp2.2/HATEOAS-POC.dll
+/Users/abdala/HATEOAS-POC/obj/Debug/netcoreapp2.2/HATEOAS-POC.pdb
